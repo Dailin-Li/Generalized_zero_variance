@@ -11,5 +11,5 @@ refer to:
 
 dataset
 
-1. MCMC example
+1. MCMC example intrduced by Pystan3
 2. Mira 2014
