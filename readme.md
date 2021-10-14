@@ -1,5 +1,5 @@
 Except for "BG_MC_MCMC.py" that is for MC & MCMC background, other files are to apply the 
-generalized zero variance method to differnt combinations of Bayesian models and dataset.
+generalized zero variance method on differnt combinations of Bayesian models and dataset.
  
 
 refer to:
